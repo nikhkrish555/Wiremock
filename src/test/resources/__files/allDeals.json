@@ -1,0 +1,26 @@
+{
+  "storeFront": "NZ",
+  "specialsStatus": "open",
+  "domesticDeals": [
+    {
+      "currencySymbol": "$",
+      "destinationIataCode": "WLG",
+      "destinationName": "Wellington",
+      "originIataCode": "AKL",
+      "originName": "Auckland",
+      "serviceClass": "",
+      "displayFromDate": "2020-07-01",
+      "displayToDate": "2020-11-30",
+      "seatCount": 100,
+      "price": "49",
+      "statusText": "Now",
+      "status": "FOR_SALE",
+      "journeyType": "One Way",
+      "bookUrl": "https:\/\/www.grabaseat.co.nz\/webbook\/A2A47CEE1519893AD38BA62F0C4E095E34BD0863E974FAE03E4D1E35E1D510565BA55A726A127E575760FB8DD938105A",
+      "promoCode": "",
+      "regions": [
+        "New Zealand"
+      ]
+    }
+  ]
+}
